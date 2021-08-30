@@ -18,6 +18,10 @@ wr.prg : Writing software（for Pi STARTER）.
 
 ![fc_wr](https://user-images.githubusercontent.com/5597377/131226267-04f40ee6-dc07-4ba3-9ccf-a845f8376eda.png)
 
-## test program
+## movie
+
+https://www.youtube.com/watch?v=uX7bmrvEYVM
+
+## example program
 
 https://github.com/nicotakuya/fc_colortest
