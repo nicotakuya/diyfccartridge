@@ -10,7 +10,9 @@ FC_CARTV2.COMP : Cartridge's PCB CAD data（for CADLUS X）.
 
 FC_WR.COMP : Flash memory writer's PCB CAD data（for CADLUS X）.
 
-wr.prg : Writing software（for Pi STARTER）.
+wr_fc.py : Writing software（for Raspberry Pi + Python）.
+
+wr.prg : Writing software（for Raspberry Pi + Pi STARTER）.
 
 ## images
 
